@@ -50,7 +50,7 @@
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "etcd3": "^1.1.2",
-    "express": "^4.17.2",
+    "express": "^4.20.0",
     "http-errors": "^2.0.0",
     "http-terminator": "^3.2.0",
     "ioredis": "^5.3.2",
@@ -68,7 +68,7 @@
     "structured-headers": "^1.0.1",
     "typed-emitter": "^2.1.0",
     "uint8arrays": "3.0.0",
-    "undici": "^6.19.8"
+    "undici": "^6.21.1"
   },
   "devDependencies": {
     "@atproto/api": "workspace:^",
